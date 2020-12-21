@@ -1,0 +1,2 @@
+body,html{margin:0;padding:0}.App{margin:5px;display:grid;place-items:center}.container{display:flex;flex-wrap:wrap}.cell{width:calc(1.96078vw - 20px);height:calc(1.96078vw - 20px);margin:2px;border:2px solid #000}.selected{border:2px solid red;background-color:red}
+/*# sourceMappingURL=main.7644cda1.chunk.css.map */
