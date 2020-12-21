@@ -18,5 +18,6 @@ export function AskDOB({ onReturn }) {
                 if (e.key === "Enter")
                     onSubmit()
             }} />
+        <button onClick={onSubmit}>Done</button>
     </>
 }
